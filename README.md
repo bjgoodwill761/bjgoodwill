@@ -1,1 +1,22 @@
-# bjgoodwill
+# 醫療黑幕持續曝光中...
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/17.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/18.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/19.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/20.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/21.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/1.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/2.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/3.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/4.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/5.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/6.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/7.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/8.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/9.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/10.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/11.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/12.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/13.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/14.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/15.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/16.PNG" width="850" height="480"/>
