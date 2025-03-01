@@ -1,6 +1,8 @@
 # 醫療黑幕持續曝光中...
 <img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/31.PNG" width="850" height="480"/>
 <img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/32.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/33.PNG" width="850" height="480"/>
+<img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/34.PNG" width="850" height="480"/>
 <img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/17.PNG" width="850" height="480"/>
 <img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/18.PNG" width="850" height="480"/>
 <img src="https://github.com/bjgoodwill761/bjgoodwill/blob/master/png/19.PNG" width="850" height="480"/>
